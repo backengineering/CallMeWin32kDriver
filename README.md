@@ -22,5 +22,3 @@ This feature was analyzed from a certain PUBG cheat driver.
 - Visual Studio 2022 & WDK10
 - llvm-msvc [[link]](https://github.com/NewWorldComingSoon/llvm-msvc-build)
 
-## Some discussions on UnknownCheats
-https://www.unknowncheats.me/forum/anti-cheat-bypass/511107-load-driver-win32k-sys.html
